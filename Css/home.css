@@ -1,0 +1,212 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+.f-left{
+    float: left;
+}
+
+.f-right{
+    float: right;
+}
+
+.fix{
+    clear: both;
+}
+
+.page-1{
+    height: 100vh;
+    background-image: url(../img/banner-slide-1.jpg);
+    background-position: center center;
+    background-size: 100% 100%;
+}
+
+.father{
+    background-color:rgb(255, 255, 255);
+}
+
+.header{
+    width: 80%;
+    margin: auto;
+    padding: 15px 3px;
+    
+}
+
+.header .items p{
+     font-size: 15px;
+
+}
+
+.header .logo{
+    width: 20%;
+    
+}
+
+.header .logo h1{
+    color: #48cae4;
+    font-size: 48px;
+    
+}
+
+.header .list-1{
+    width: fit-content;
+    padding: 5px 0px;
+}
+
+.header .list-1 ul{
+    list-style: none;
+    
+    
+
+}
+
+.header .list-1 ul li{
+    float: left;
+    margin: 20px 0px 0px 20px;
+    font-weight: 600;
+    
+}
+
+.header .list-1 a{
+    color: black;
+    
+}
+
+.body-1{
+    
+
+    width: 100%;
+    
+    padding-top: 50px;
+    
+}
+
+.content{
+    color: #fff;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.content h2{
+    margin-bottom: 30px;
+    font-size: 40px;
+    
+}
+
+span{
+    color: #48cae4;;
+}
+
+.content p{  
+    width: 50%;
+    margin: 0px auto 30px auto;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.btn{
+border: 1px solid #48cae4;
+padding: 15px 40px;
+font-size: medium;
+font-weight: 600;
+color: rgb(255, 255, 255);
+}
+
+.content .btn-1{
+    background-color: #48cae4;
+    margin-right: 10px;
+}
+
+.btn-2{
+    color: #48cae4;
+    background-color:transparent;
+    
+}
+
+.father-2{
+    width: 70%;
+    margin: auto;
+    
+    
+}
+
+.father-2 .son-items{
+    width: 33.33%;
+    padding: 30px 50px 30px 50px;
+}
+
+.father-2 h3{
+    margin-bottom: 20px;
+}
+
+.father-2 p{
+    margin-bottom: 25px;
+    color: rgb(111, 111, 111);
+    font-size: 15px;
+    font-weight: 100;
+}
+
+.father-2 a{
+    color: #48cae4 ;
+    font-weight: 750;
+    font-size: 13px;
+}
+
+.page-3{
+    height: fit-content;
+    background-color: aliceblue;
+    
+}
+
+.page-3 .back-img{ 
+    width: 50%;
+}
+
+.page-3 .back-img img{
+    
+    width: 100%;
+    height: 100%;
+    
+    
+}
+
+.page-3 .about-us-father{
+    width: 100%;
+    height: 100%;
+}
+
+.page-3 .about-us-son{
+    width: 45%;
+    background-color:#fff;
+    padding: 40px;
+    margin: 30px 60px 30px 0px;
+    position: absolute;
+    left: 45%;
+    box-shadow: 0px 0px 12px #fff9;
+}
+
+.page-3 .about-us-son h2{
+    margin-bottom: 20px;
+}
+
+.page-3 .about-us-son p{
+    margin-bottom: 40px;
+    font-style: italic;
+   color:  rgb(111, 111, 111);
+    
+}
+
+.page-3 .about-us-son li{
+    margin-bottom: 20px;
+    margin-left: 12px;
+    color: rgb(111, 111, 111);
+    font-weight: 100;
+}
+
+.page-3 .about-us-son .bt{
+margin-top: 30px;
+}
